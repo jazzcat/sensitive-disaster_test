@@ -1,4 +1,4 @@
-# readme TEST
+# readme
 
 This is a simple script that reads from an environment file.
 
